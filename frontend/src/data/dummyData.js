@@ -1,29 +1,23 @@
-export const exploreVideos = [
+export const content = [
   {
-    id: 101,
-    title: "AI Explained Simply",
-    thumbnail: "https://via.placeholder.com/300",
-    channel: "AI Lab",
-    views: "80K",
-    duration: "20:10",
-    category: "Technology",
+    id: "1",
+    title: "React Basics Tutorial",
+    type: "video",
+    creator: "Code Hub",
+    duration: "12:30"
   },
   {
-    id: 102,
-    title: "Top Coding Music",
-    thumbnail: "https://via.placeholder.com/300",
-    channel: "Music Flow",
-    views: "150K",
-    duration: "1:05:00",
-    category: "Music",
+    id: "2",
+    title: "Lo-fi Coding Music",
+    type: "audio",
+    creator: "Music World",
+    duration: "45:00"
   },
   {
-    id: 103,
-    title: "DSA Roadmap 2025",
-    thumbnail: "https://via.placeholder.com/300",
-    channel: "CodeMentor",
-    views: "210K",
-    duration: "40:00",
-    category: "Education",
-  },
+    id: "3",
+    title: "JavaScript Advanced Concepts",
+    type: "video",
+    creator: "Dev Studio",
+    duration: "20:15"
+  }
 ];
