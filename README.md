@@ -23,7 +23,6 @@ A lightweight React-based frontend for a smart streaming platform — browse, se
 ## Demo
 (If you have screenshots or a running demo — add them here.)
 - Screenshot 1: `docs/screenshots/home.png`
-- Live demo: https://your-deployment-url.example.com
 
 ## Tech stack
 - Frontend: React (JavaScript)
