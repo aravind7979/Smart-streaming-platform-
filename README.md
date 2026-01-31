@@ -1,5 +1,7 @@
 # Smart Streaming Platform
 
+🔗 **Live demo:**  https://aravind7979.github.io/Smart-streaming-platform-/
+
 A lightweight React-based frontend for a smart streaming platform — browse, search and explore media content. This repository contains the UI portion (React + JavaScript + HTML) and is an early-stage implementation of the app layout, home/explore/search pages and components.
 
 > NOTE: This project is in active development. The README below is designed to get the app running locally and to give a clear roadmap for next steps.
@@ -21,8 +23,8 @@ A lightweight React-based frontend for a smart streaming platform — browse, se
 - [Contact](#contact)
 
 ## Demo
-(If you have screenshots or a running demo — add them here.)
-- Screenshot 1: `docs/screenshots/home.png`
+> Demo screenshots and live preview will be added in upcoming commits.
+
 
 ## Tech stack
 - Frontend: React (JavaScript)
@@ -54,16 +56,8 @@ Planned / suggested
    git clone https://github.com/aravind7979/Smart-streaming-platform-.git
 2. Enter the project folder
    cd Smart-streaming-platform-
-3. Install dependencies
-   npm install
-   (or `yarn` if you prefer)
 4. Start the dev server
-   npm start
-   or
-   npm run dev
-
-If `npm start` or `npm run dev` is not configured, check `package.json` for scripts — common commands are `start`, `dev`, or `serve`.
-
+   
 ## Available scripts
 Add or update these scripts in your package.json if they are not present:
 
@@ -160,18 +154,8 @@ Suggested repository files to add:
 ## License
 If you want others to reuse your code, add a license file. A common choice is the MIT license.
 
-Example:
-- Create a `LICENSE` file with the MIT license text.
 
 ## Contact
 Author: Aravind (GitHub: [@aravind7979](https://github.com/aravind7979))
 Email: aravindindrapally79@gmail.com
 
----
-
-If you'd like, I can:
-- Generate this README as a file ready to add to the repo.
-- Create a simple GitHub Actions workflow to run lint/tests on PRs.
-- Draft a CONTRIBUTING.md and ISSUE/PR templates.
-
-Which would you like me to create next?  
