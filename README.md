@@ -1,4 +1,4 @@
-# Smart Streaming Platform
+# SMART STREAMING PLATFORM
 
 🔗 **Live demo:**  https://aravind7979.github.io/Smart-streaming-platform-/
 
